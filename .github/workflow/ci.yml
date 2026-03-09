@@ -9,6 +9,3 @@ jobs:
     steps:
       - name: Mensagem 1
         run: echo "Pipeline executado com sucesso!"
-
-        - name: Mensagem 2
-        run: echo "Pipeline finalizado!"
